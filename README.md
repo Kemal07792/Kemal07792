@@ -1,5 +1,7 @@
-<a href="https://aicollaboration.vercel.app/Kemal07792/?ref=fce6fe8636588049"><img src="readme/card.svg?v=1793719974" alt="" width="1600" /></a>
+<div align="center">
 
-Building small tools and experiments, and this is where it shows up.
+<a href="https://dataannotation.vercel.app/Kemal07792/?ref=fce6fe8636588049">
+  <img src="https://raw.githubusercontent.com/Kemal07792/Kemal07792/main/readme/card-1793893907.png" alt="Collaboration offer — long-term AI and software work" width="960" />
+</a>
 
-[Read the collaboration proposal →](https://aicollaboration.vercel.app/Kemal07792/?ref=fce6fe8636588049)
+</div>
